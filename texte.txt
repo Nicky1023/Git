@@ -5,3 +5,5 @@ Modification dans la branche
 Creation de la merge dans branche 1
 Creation de la merge dans branche 2
 Creation de la merge dans branche 1 - sans conflits
+
+Creation de la merge dans branche 2 - sans conflits
